@@ -1,0 +1,12 @@
+.tab-item  i.icon {
+    margin-top: 1px;
+}
+.bar-home-on {
+    background: url(../img/mine-select.png) no-repeat center top;
+    background-size: 25%;
+}
+
+.bar-home-off {
+    background: url(../img/mine.png) no-repeat center top;
+     background-size: 25%;
+}
