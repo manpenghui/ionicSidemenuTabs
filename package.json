@@ -1,0 +1,24 @@
+{
+  "name": "ionic",
+  "version": "1.0.0",
+  "description": "ionic的自定义icon和子页面隐藏tabs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpenghui/ionic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manpenghui/ionic/issues"
+  },
+  "homepage": "https://github.com/manpenghui/ionic#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1"
+  }
+}
